@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691344867 source:c:\users\hp\desktop\word counter\wordcounter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+

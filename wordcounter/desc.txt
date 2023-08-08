@@ -1,0 +1,1 @@
+This is a word counter , it can count and print the number of words present in a file.
