@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1691506360 source:c:\users\hp\desktop\number guessing game\numberguessing  game\numberguessinggame.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<math.h>
+
+1692386989 source:c:\users\hp\desktop\number guessing game\numberguessing  game\main.cpp
+	<bits/stdc++.h>
+
